@@ -1,1 +1,2 @@
 C:\Users\jonatas\Desktop\Financas\Financas\bin\Debug\Financas.exe.config
+C:\Users\jonatas\projects\financas\Financas\Financas\bin\Debug\Financas.exe.config
