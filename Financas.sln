@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Financas", "Financas\Financas.csproj", "{DB6757D1-6772-4372-B0D7-05DBD5ED9A7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamadaController", "CamadaController\CamadaController.csproj", "{4C3FE158-AC96-473F-9B64-33CD16F8EBDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamadaEntidades", "CamadaEntidades\CamadaEntidades.csproj", "{3A5848E5-8250-4696-A7B5-B766D758B97B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB6757D1-6772-4372-B0D7-05DBD5ED9A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB6757D1-6772-4372-B0D7-05DBD5ED9A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB6757D1-6772-4372-B0D7-05DBD5ED9A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB6757D1-6772-4372-B0D7-05DBD5ED9A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C3FE158-AC96-473F-9B64-33CD16F8EBDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C3FE158-AC96-473F-9B64-33CD16F8EBDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C3FE158-AC96-473F-9B64-33CD16F8EBDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C3FE158-AC96-473F-9B64-33CD16F8EBDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A5848E5-8250-4696-A7B5-B766D758B97B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A5848E5-8250-4696-A7B5-B766D758B97B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A5848E5-8250-4696-A7B5-B766D758B97B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A5848E5-8250-4696-A7B5-B766D758B97B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
